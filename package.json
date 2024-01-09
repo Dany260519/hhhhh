@@ -28,13 +28,13 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://dany260519.github.io/hhhhh",
   "browserslist": {
     "production": [
       ">0.2%",
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "https://dany260519.github.io/hhhhh",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
